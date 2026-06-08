@@ -1,0 +1,6 @@
+{
+  "name": "PromptTok",
+  "description": "An immersive social platform to discover, share, remix, and monetize AI prompts and workflows with automated Gemini scoring, optimization, and interactive testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
